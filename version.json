@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/trungnhan2920-code/auto-update/releases/download/v1.0.1/Loader.exe",
-  "changelog": "Cập nhật bypass mới nhất cho HD-Player và tối ưu tốc độ tiêm AimFlux!",
-  "sha256": "",
-  "force_update": false
+  "version": "1.0.0",
+  "dll_hash": "66042326753d0d41567027b26b901500cf78e7ada34ed2062add0af4599ec077",
+  "dll_download_url": "https://github.com/trungnhan2920-code/auto-update/releases/download/v1.0.0/AimFlux.vmp.dll",
+  "changelog": "Initial release",
+  "force_update": true
 }
